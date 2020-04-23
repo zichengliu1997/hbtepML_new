@@ -1,0 +1,8 @@
+File name: test_103693
+Date: Wed Feb  5 21:02:36 2020
+Shotno range: 103693-103694
+Number of shots saved: 1
+Downsampling rate: 5
+Shot style filtering rule: False
+Signals: ['ip', 'q', 'mr', 'lv', 'spect', 'sxrmid', 'n1amp', 'bpli', 'oh', 'vf']
+Total run time: 7 seconds
